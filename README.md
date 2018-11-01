@@ -3,6 +3,7 @@
 **Aplikasi Jadwal Kajian Agama Islam Berbasis Lokasi**
 
 *Deskripsi*
+
 Aplikasi ini merupakan aplikasi yang berisi tentang list dari jadwal kajian - kajian islam sesuai tempat pelaksanaannya. Selain itu, Bila user telah menginstall aplikasi berikut dan user sedang melewati atau sedang berada tidak jauh dari lokasi suatu kajian. Maka akan muncul sebuah notifikasi atau pemberitahuan bahwa di lokasi tersebut akan di adakan sebuah kajian.
 
 *Batasan*
